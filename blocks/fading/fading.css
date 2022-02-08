@@ -1,0 +1,15 @@
+@keyframes fading {
+   o% {
+   opacity: 100%;
+   } 
+   50% {
+   opacity: 65%;
+   }
+   100% {
+   opacity: 35%;
+   }
+}
+
+.fading:hover {
+   animation: fading 0.6s linear 0s infinite alternate forwards;
+}
