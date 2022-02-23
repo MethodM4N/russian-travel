@@ -42,11 +42,11 @@
    height: 100%;
    content: '';
    background: #2a2c2f;
-   opacity: 0.3;
+   opacity: 0.25;
    position: absolute;
    transition: opacity 0.3s;
 }
 
 .cover__background:hover:before {
-   opacity: 0.8;
+   opacity: 0.85;
 }
