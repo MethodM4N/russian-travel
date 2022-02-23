@@ -1,4 +1,4 @@
-# Russian-travel (проектная работа №3 by [Yandex.Practicum](https://practicum.yandex.ru/profile/web/ "Практикум"))
+# Russian-travel (проектная работа №3 by [Yandex.Practicum](https://practicum.yandex.ru/ "Практикум"))
 ----
 В данной проектной работе использованы такие **технологии** как:
 ```HTML
