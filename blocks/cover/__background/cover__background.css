@@ -4,7 +4,7 @@
    margin: 0;
    position: relative;
    text-decoration: none;
-   background-image: url(../../../images/cover-trains.jpg);
+   background-image: url("../../../images/cover-trains.jpg");
    display: flex;
    flex-direction: column;
    background-repeat: no-repeat;
